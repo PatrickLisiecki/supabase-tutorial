@@ -23,5 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-prettier.config.json
-.prettierrc.json
+.env*
